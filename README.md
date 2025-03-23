@@ -1,7 +1,7 @@
 # Code for Paper "Advancing 3D Line Registration with Geometric Algebra: A Framework for Unified Transformations"
 
 ## Overview
-This MATLAB project implements a unified framework for 3D line registration by using Geometric Algebra (GA) techniques combined with standard SVD methods. The script maps 3D Euclidean line data into a 4D spherical space using the 1DUp approach, applies transformations using GA and recovers the 3D rotation and translation components. It then compares the GA-based registration with a conventional SVD point-based approach.
+This MATLAB project implements a unified framework for 3D line registration by using Geometric Algebra (GA) techniques combined with standard SVD methods. The script maps 3D Euclidean line data into a 4D spherical space using the 1DUp approach within Conformal Geometric Algerba (CGA), applies transformations using GA and recovers the 3D rotation and translation components. It then compares the GA-based registration with a conventional SVD point-based approach.
 
 ## Features
 - **3D Line Generation:** Generates multiple 3D lines with configurable numbers of lines and points per line.
