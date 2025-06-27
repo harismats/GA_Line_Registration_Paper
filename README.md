@@ -54,7 +54,4 @@ For any questions or issues with the code, please contact:
 **[Haris Matsantonis]**  
 **[cm2128@cam.ac.uk]**
 
----
-
-This README provides a detailed yet concise guide for users to understand and replicate the code from the paper.
 
