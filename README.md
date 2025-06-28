@@ -22,10 +22,10 @@ This MATLAB project implements a unified framework for 3D line registration by u
    Make sure you have MATLAB and the Clifford Algebra Toolbox installed.
 
 2. **Save the Script:**  
-   Save the provided code into a single file named `line_registration.m`.
+   Save the provided code into a single file named `GA_Line_Registration.m`.
 
 3. **Run the Script:**  
-   Open MATLAB, navigate to the directory containing `line_registration.m`, and execute:
+   Open MATLAB, navigate to the directory containing `GA_Line_Registration.m`, and execute:
    ```matlab
    line_registration
    ```
@@ -38,7 +38,7 @@ This MATLAB project implements a unified framework for 3D line registration by u
    - Plot the error metrics for both methods.
 
 ## File Structure
-All the code is contained within a single file (`line_registration.m`). The script is organized as follows:
+All the code is contained within a single file (`GA_Line_Registration.m`). The script is organized as follows:
 - **Initial Setup & Parameter Definition:**  
   Sets up simulation parameters, initializes the Clifford Algebra, and preallocates result structures.
 - **Main Loop:**  
