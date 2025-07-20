@@ -27,7 +27,7 @@ This MATLAB project implements a unified framework for 3D line registration by u
 3. **Run the Script:**  
    Open MATLAB, navigate to the directory containing `GA_Line_Registration.m`, and execute:
    ```matlab
-   line_registration
+   GA_Line_Registration
    ```
    The script will:
    - Generate multiple configurations of 3D lines.
